@@ -1,0 +1,5 @@
+Ali, AI and DS, 85
+Sara, IT, 72
+John, Cybersecurity, 65
+Mary, Maths, 90
+Toru, Physics, s98
